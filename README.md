@@ -8,17 +8,20 @@ Dans cette bataille déséquilibrée, quoi de mieux pour répondre à une machin
 « Comment l’intelligence artificielle peut-elle être efficacement intégrée dans les stratégies de cybersécurité pour anticiper, détecter et contrer les menaces informatiques ? »​​​​​​​​​​​​​​​​
 <br />
 
+<h2>Languages et  Technologies utilisées</h2>
 
-<h2>Languages and Utilities Used</h2>
-
+- <b>SIEM : Wazuh</b>
+- <b>Algorithme de Deep learning </b>
+- <b> Zabbix </b>
+- <b> Quicksight </b>
 - <b>Python </b> 
 - <b>Shell</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-
-
+- <b>Linux server </b>
+- <b>Kali </b> 
 
 <h2>Program walk-through:</h2>
 

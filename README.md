@@ -1,22 +1,24 @@
-# Master
 
-
-<h1>JWipe - Disk Sanitization</h1>
+<h1> Memoire de fin de cycle Master</h1>
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Imaginez l’application du syndrome de Stockholm dans un monde numérique pour lutter contre les cyberattaques. Face à des menaces en ligne de plus en plus sophistiquées, la détection naturelle est devenue insuffisante face à la vitesse d’exécution des attaques. Si l’IA offre de nombreux avantages en cybersécurité — détection rapide, analyses approfondies, renforcement des systèmes — son utilisation combinée aux cyberattaques génère de nouveaux vecteurs bien plus complexes auxquels les défenses classiques ne peuvent résister.
+Dans cette bataille déséquilibrée, quoi de mieux pour répondre à une machine qu’une autre machine ? En faire un allié devient alors essentiel pour la cyberdéfense, à l’image du hold-up de Stockholm en 1973. Toutefois, son intégration soulève des défis majeurs :
+« Comment l’intelligence artificielle peut-elle être efficacement intégrée dans les stratégies de cybersécurité pour anticiper, détecter et contrer les menaces informatiques ? »​​​​​​​​​​​​​​​​
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python </b> 
+- <b>Shell</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+
+
 
 <h2>Program walk-through:</h2>
 

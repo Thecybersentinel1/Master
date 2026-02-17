@@ -21,7 +21,7 @@ Dans cette bataille déséquilibrée, quoi de mieux pour répondre à une machin
 
 - <b>Windows 10</b> (21H2)
 - <b>Linux server </b>
-- <b>Kali </b> 
+- <b>Parrot security </b> 
 
 <h2>Procedure de fonctionnement </h2>
 

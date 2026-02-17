@@ -23,7 +23,17 @@ Dans cette bataille déséquilibrée, quoi de mieux pour répondre à une machin
 - <b>Linux server </b>
 - <b>Kali </b> 
 
-<h2>Program walk-through:</h2>
+<h2>Procedure de fonctionnement </h2>
+
+1. Installation et configuration du SIEM wazuh 
+2. Déploiement des agents 
+3. Entraînement du modèle DNN sur un dataset de type log 
+4. Modification  du fichier de configuration de wazuh pour permettre notre code ia de lire fichier du collection des logs
+5. Création d’un script qui permet de récupérer tous les événements logs reçus des agents et de les envoyer dans le fichier ‘‘ log_agents.log 
+6. Automatisation du script 
+7. Phase d’attaque
+
+<h2>Demo :</h2>
 
 <p align="center">
 Launch the utility: <br/>
